@@ -1,0 +1,6 @@
+[submodule "ClientAppAngular"]
+	path = ClientAppAngular
+	url = https://github.com/SavkinIS/ClientAppAngular.git
+[submodule "AngularASCOM"]
+	path = AngularASCOM
+	url = https://github.com/SavkinIS/AngularASCOM.git
